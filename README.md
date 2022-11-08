@@ -1,4 +1,4 @@
-# Black-Hole-Merger-Infall
+# Black Hole Merger Infall
 The simulation code from the research project on gravitational waves.
 
 This simulation was created in VPython. A link to glowscript where the simulation can be watched is here: 
