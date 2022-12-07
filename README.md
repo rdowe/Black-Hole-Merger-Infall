@@ -5,4 +5,4 @@ This simulation was created in VPython. A link to glowscript where the simulatio
   https://www.glowscript.org/#/user/rdowe/folder/MyPrograms/program/InfallMotionFinal
   
 More information on this project can be seen on my portfolio website:
-  https://rebeccadowe.weebly.com
+  https://dowerebecca.weebly.com
